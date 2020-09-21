@@ -17,3 +17,12 @@ The mount was easy to make, I had no difficulties and it was helpful to see how 
 I learned: How to use features from other parts to create a part, and to use a linear pattern in a sketch.
 
 Link to onshape document: https://cvilleschools.onshape.com/documents/56222ec8ebbbf23e68f3e51f/w/02f844485f50e7381229a641/e/8e42a84cf7988f71c795ec51
+
+## Fork
+
+<img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/fork%20image.png" width="450">
+The fork was fun to make, super simple.
+
+I learned: How to do chamfers and fillets and how to mirror them
+
+Link to onshape document: https://cvilleschools.onshape.com/documents/134162e691b9860cfb46a2a7/w/0d77368fe22b954e08901c6b/e/4584370882bc20ad6990b0fe
