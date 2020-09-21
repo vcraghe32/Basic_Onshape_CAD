@@ -26,3 +26,13 @@ The fork was fun to make, super simple.
 I learned: How to do chamfers and fillets and how to mirror them
 
 Link to onshape document: https://cvilleschools.onshape.com/documents/134162e691b9860cfb46a2a7/w/0d77368fe22b954e08901c6b/e/4584370882bc20ad6990b0fe
+
+
+## Tire
+
+<img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/tireimage.png" width="450">
+It was really cool to use the revolve feature, and make a trapezoid.
+
+I learned: How to use the revolve feature
+
+Link to onshape document: https://cvilleschools.onshape.com/documents/412135ace89e16aeb5cdf789/w/1100223311f79c541407f04f/e/1a91e9388d919b8ceb93c229
