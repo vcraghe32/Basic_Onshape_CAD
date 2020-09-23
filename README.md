@@ -2,7 +2,7 @@
 
 ## Base
 
-<img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/Screenshot%202020-09-17%20at%202.26.52%20PM.png" width="450">
+<img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/folder_name/baseimage.png" width="450">
 This base was pretty easy to make, onshape is easier and less glitchy than soldiworks so that helped.
 
 I learned: How to navigate Onshape and that it's easier to put it full screen.
@@ -11,7 +11,7 @@ Link to onshape document: https://cvilleschools.onshape.com/documents/41822887fc
 
 ## Mount
 
-<img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/Screenshot%202020-09-19%20at%2011.08.23%20AM.png" width="450">
+<img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/folder_name/mountimage.png" width="450">
 The mount was easy to make, I had no difficulties and it was helpful to see how I can make a part in different ways.
 
 I learned: How to use features from other parts to create a part, and to use a linear pattern in a sketch.
