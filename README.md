@@ -36,3 +36,12 @@ It was really cool to use the revolve feature, and make a trapezoid.
 I learned: How to use the revolve feature
 
 Link to onshape document: https://cvilleschools.onshape.com/documents/412135ace89e16aeb5cdf789/w/1100223311f79c541407f04f/e/1a91e9388d919b8ceb93c229
+
+## Wheel
+
+<img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/folder_name/wheelimage.png" width="450">
+It was fun to cut spokes, and I had trouble becuase I dimensioned something wrong and I couldn't undo it but I fixed it by doing it all over again.
+
+I learned: How to use the revolve feature
+
+Link to onshape document: https://cvilleschools.onshape.com/documents/6fec57e1c9ef9b8ba9a5d5e8/w/61211a3c4a689450760ff1a6/e/8816a3d2908bfe03bef339db
