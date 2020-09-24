@@ -45,3 +45,19 @@ It was fun to cut spokes, and I had trouble becuase I dimensioned something wron
 I learned: How to use the revolve feature
 
 Link to onshape document: https://cvilleschools.onshape.com/documents/6fec57e1c9ef9b8ba9a5d5e8/w/61211a3c4a689450760ff1a6/e/8816a3d2908bfe03bef339db
+
+## Axle, Collar, Bearing, and Washer
+
+<img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/folder_name/wheelbearingimage.png" width="300"><img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/folder_name/washerimage.png" width="300"><img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/folder_name/axleandcollarimage.png" width="300">
+
+It was really helpful to use the "Use" feature becuase the whole thing it took less time than I thought. It was cool to see that even the tiny parts add to the design.
+
+I learned: How to use the "Use" feature.
+
+Link to onshape documents: 
+
+washer- https://cvilleschools.onshape.com/documents/bd2b42a2f2150dacc1768247/w/b3b2cb9a581202a3808ecdcc/e/0f64af2cdf517663aae9860b                        
+                           
+wheel and bearing- https://cvilleschools.onshape.com/documents/6fec57e1c9ef9b8ba9a5d5e8/w/61211a3c4a689450760ff1a6/e/8816a3d2908bfe03bef339db
+                           
+axle and collar- https://cvilleschools.onshape.com/documents/0ef822dbef33f7f696a9df7f/w/6bba6d1317ea85f6e2cb3da2/e/1cfac683e38948a67e9d352a
