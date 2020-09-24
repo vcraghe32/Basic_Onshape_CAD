@@ -61,3 +61,12 @@ washer- https://cvilleschools.onshape.com/documents/bd2b42a2f2150dacc1768247/w/b
 wheel and bearing- https://cvilleschools.onshape.com/documents/6fec57e1c9ef9b8ba9a5d5e8/w/61211a3c4a689450760ff1a6/e/8816a3d2908bfe03bef339db
                            
 axle and collar- https://cvilleschools.onshape.com/documents/0ef822dbef33f7f696a9df7f/w/6bba6d1317ea85f6e2cb3da2/e/1cfac683e38948a67e9d352a
+
+## Subassembly - Wheel and Axle
+
+<img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/folder_name/wheelandaxleimage.png" width="450">
+This was 100x easier to mate than in Soldiworks, becuase I didn't have to use coincident mates three times or use concentric, and also the revolve mate is super awesome. I loved watching the animation of my axle.
+
+I learned: How to mate parts in onshape
+
+Link to onshape document: https://cvilleschools.onshape.com/documents/dd983c7a65cf25e086982c55/w/75e9185e0d7cfdd216c9d1be/e/ae78c100c1bd70883c8b5621
