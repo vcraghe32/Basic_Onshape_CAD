@@ -70,3 +70,12 @@ This was 100x easier to mate than in Soldiworks, becuase I didn't have to use co
 I learned: How to mate parts in onshape
 
 Link to onshape document: https://cvilleschools.onshape.com/documents/dd983c7a65cf25e086982c55/w/75e9185e0d7cfdd216c9d1be/e/ae78c100c1bd70883c8b5621
+
+## Subassembly - FINAL assembly
+
+<img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/folder_name/ezgif.com-gif-maker.gif" width="450">
+This one took a long time to make, but it was wayyyy easier to assemble than solidworks. I loved how easy it was to just place the nuts and bolts in.
+
+I learned: How to insert parts and hardware into an assembly and mate them.
+
+Link to onshape document: https://cvilleschools.onshape.com/documents/9bfc27bee4ca9ecb31095b2d/w/aa2575b3f569797eb19626a6/e/827b2bfe90682df8b9202c5e
