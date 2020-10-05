@@ -79,3 +79,17 @@ This one took a long time to make, but it was wayyyy easier to assemble than sol
 I learned: How to insert parts and hardware into an assembly and mate them.
 
 Link to onshape document: https://cvilleschools.onshape.com/documents/9bfc27bee4ca9ecb31095b2d/w/aa2575b3f569797eb19626a6/e/827b2bfe90682df8b9202c5e
+
+## Dorothy's Pins
+
+<img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/folder_name/frame1image.png" width="350"><img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/folder_name/frame2image.png" width="350">
+
+It was much easier to use the configurations tab and switch between configurations on onshape. I struggled with making my own frame design, but at the end I was really proud.
+
+I learned: How to use the Configurations tool and apply it to assemblies.
+
+Link to onshape documents: 
+
+dowel pins- https://cvilleschools.onshape.com/documents/f4667c964a1ddc8f481f7e6d/w/a7111b897e3196dec7f30237/e/20c5824758b154d1cfe90d67?configuration=List_18kddtY8bHiM0r%3D_1_2_inch%3BList_iQa5mKGTFWt1mg%3Dchamfer%3BList_tuMN1nr5aQK3UO%3D                  
+                                      
+assembly(frame)-https://cvilleschools.onshape.com/documents/77db3263278f4677c4343c13/w/f25be7dd6c02e09cfdee4458/e/a9b13f6b6e231cba130f9292
