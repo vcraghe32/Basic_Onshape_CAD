@@ -93,3 +93,13 @@ Link to onshape documents:
 dowel pins- https://cvilleschools.onshape.com/documents/f4667c964a1ddc8f481f7e6d/w/a7111b897e3196dec7f30237/e/20c5824758b154d1cfe90d67?configuration=List_18kddtY8bHiM0r%3D_1_2_inch%3BList_iQa5mKGTFWt1mg%3Dchamfer%3BList_tuMN1nr5aQK3UO%3D                  
                                       
 assembly(frame)-https://cvilleschools.onshape.com/documents/77db3263278f4677c4343c13/w/f25be7dd6c02e09cfdee4458/e/a9b13f6b6e231cba130f9292
+
+## Onshape Challenge
+
+<img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/folder_name/Screenshot%202020-10-12%20at%201.25.12%20PM.png" width="350"><img src="https://github.com/vcraghe32/Basic_Onshape_CAD/blob/master/folder_name/Screenshot%202020-10-12%20at%201.26.25%20PM.png" width="350">
+
+It was really cool to see the mechanical revolve mate. I struggled with aligning the parts together, but once I made them parallel it worked well!
+
+I learned: How to mate assemblies with multiple revolve mates.
+
+Link to onshape documents: https://cvilleschools.onshape.com/documents/d7492235dcc5553a22da7163/w/a73db8d78ef96213dbf71b46/e/c5de0b67e2448b00b2084653
